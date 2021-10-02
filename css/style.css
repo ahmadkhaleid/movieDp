@@ -1,0 +1,13 @@
+
+body{background-color: black;
+color: white;
+padding-top: 40px;
+scroll-behavior: smooth;
+}
+
+.vote{
+    top: 0;
+    right: 20px;
+    width: 20px;
+    text-align: center;
+}
